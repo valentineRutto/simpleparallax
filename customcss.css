@@ -1,0 +1,10 @@
+#content{
+height: 1500px;
+    background-color: #333;
+}
+#par{
+padding: 300px 0;
+    background-image: url(images/life.jpeg);
+        background-size:cover;
+    background-attachment: fixed;
+}
