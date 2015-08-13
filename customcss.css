@@ -1,6 +1,6 @@
 #content{
-height: 1500px;
-
+height: auto;
+    width: inherit;
     background-color: cornsilk;
     text-decoration-color: crimson;
 }
@@ -16,3 +16,6 @@ padding: 300px 0;
         background-size:cover;
     background-attachment: fixed;
 }
+#height {
+      height: "1000px";
+    } 
