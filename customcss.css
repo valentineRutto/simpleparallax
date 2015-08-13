@@ -1,8 +1,16 @@
 #content{
 height: 1500px;
-    background-color: #333;
+
+    background-color: cornsilk;
+    text-decoration-color: crimson;
 }
-#par{
+#img1{
+padding: 300px 0;
+    background-image: url(images/hold.jpeg);
+        background-size:cover;
+    background-attachment: fixed;
+}
+#img2{
 padding: 300px 0;
     background-image: url(images/life.jpeg);
         background-size:cover;
