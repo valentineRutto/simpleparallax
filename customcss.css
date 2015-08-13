@@ -19,3 +19,7 @@ padding: 300px 0;
 #height {
       height: "1000px";
     } 
+#offset{
+height:auto;
+    width: inherit;
+}
