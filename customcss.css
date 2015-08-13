@@ -17,11 +17,12 @@ padding: 300px 0;
     background-attachment: fixed;
 }
 #height {
-      height: "1000px";
+      height:100%;
+    width: 100%;
     } 
 #nav{
 height:100%;
-    width: "600px";
+    width: 100%;
     align-content: center;
 }
 #body
