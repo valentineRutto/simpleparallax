@@ -1,17 +1,17 @@
 #content{
 height: auto;
     width: inherit;
-    background-color: cornsilk;
-    text-decoration-color: crimson;
+    background-color: whitesmoke;
+color: teal;
 }
 #img1{
-padding: 300px 0;
+padding: 250px 0;
     background-image: url(images/hold.jpeg);
         background-size:cover;
     background-attachment: fixed;
 }
 #img2{
-padding: 300px 0;
+padding: 250px 0;
     background-image: url(images/life.jpeg);
         background-size:cover;
     background-attachment: fixed;
