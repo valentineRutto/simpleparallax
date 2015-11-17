@@ -1,8 +1,10 @@
 #content{
 height: auto;
     width: inherit;
-    background-color: whitesmoke;
-color: teal;
+    background-color: white;
+color: dimgrey;
+    font-family: sans-serif;
+    font-size: 20px;
 }
 #img1{
 padding: 250px 0;
